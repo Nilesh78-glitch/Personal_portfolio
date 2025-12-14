@@ -21,7 +21,7 @@ const Footer = () => {
     <footer className="text-white py-8 px-[12vw] md:px-[7vw] lg:px-[20vw]">
       <div className="container mx-auto text-center">
         {/* Name / Logo */}
-        <h2 className="text-xl font-semibold text-purple-500">Animesh Kumar</h2>
+        <h2 className="text-xl font-semibold text-purple-500">Nilesh Singh</h2>
 
         {/* Navigation Links - Responsive */}
         <nav className="flex flex-wrap justify-center space-x-4 sm:space-x-6 mt-4">
@@ -47,19 +47,19 @@ const Footer = () => {
           {[
             {
               icon: <FaTwitter />,
-              link: "https://x.com/Animesh_ai",
+              link: "https://x.com/nilesh58rai",
             },
             {
               icon: <FaLinkedin />,
-              link: "www.linkedin.com/in/geekyanimesh",
+              link: "https://www.linkedin.com/in/nilesh58singh/",
             },
             {
               icon: <FaInstagram />,
-              link: "https://www.instagram.com/animesshhh__/",
+              link: "https://www.instagram.com/nilesh_s.i.n.g.h/",
             },
             {
               icon: <FaGithub />,
-              link: "https://github.com/geekyanimesh",
+              link: "https://github.com/Nilesh78-glitch",
             },
           ].map((item, index) => (
             <a
@@ -76,7 +76,7 @@ const Footer = () => {
 
         {/* Copyright Text */}
         <p className="text-sm text-gray-400 mt-6">
-          © 2025 Animesh Kumar. All rights reserved.
+          © 2025 Nilesh singh. All rights reserved.
         </p>
       </div>
     </footer>
