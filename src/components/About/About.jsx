@@ -2,7 +2,7 @@ import React from "react";
 import { Typewriter } from "react-simple-typewriter";
 import Tilt from "react-parallax-tilt";
 
-const mpic = "\assets\mpic.jpeg";
+const mpic = "/assets/mpic.jpeg";
 
 const About = () => {
   return (
