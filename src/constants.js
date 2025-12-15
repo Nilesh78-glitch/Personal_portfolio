@@ -43,7 +43,7 @@ const cod = "/assets/company_logo/cod.png";
 // Education Section Logos
 const BIT = "/assets/school_logo/BIT.png";
 const jvmLogo = "/assets/school_logo/jvmLogo.jpg";
-const mgm = "/assets/school_logo/mgm.jpeg";
+const DAV = "/assets/school_logo/DAV.jpeg";
 
 // Project Section Logos
 const deltaAi = "/assets/project_logos/deltaFrame.png";
@@ -161,7 +161,7 @@ export const education = [
   },
   {
     id: 2,
-    img: mgm,
+    img: DAV,
     school: "DAV Public School, Buxar",
     date: "April 2021",
     grade: "75%",
