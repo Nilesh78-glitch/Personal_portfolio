@@ -29,7 +29,7 @@ const About = () => {
                   "MERN Developer",
                   "Competetive Programmer",
                   "UI/UX Designer",
-                  "Linux Enthusiast",
+                  
                 ]}
                 loop={0}
                 cursor
@@ -51,7 +51,7 @@ const About = () => {
           </p>
 
           <a
-            href="https://drive.google.com/file/d/1Uf2Nzo52bRn3Yy1qfw34efZu37dqbQrz/view?usp=sharing"
+            href="https://drive.google.com/file/d/10j3j0X3Bq6RYZpnzrStwoY6Tysupm94H/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"

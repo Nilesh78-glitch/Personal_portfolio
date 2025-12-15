@@ -37,7 +37,7 @@ const dockerLogo = "/assets/tech_logo/dockerLogo.png";
 const kubernetesLogo = "/assets/tech_logo/kubernetesLogo.png";
 
 // Experience Section Logos
-const sa = "/assets/company_logo/sa.png";
+const pp = "/assets/company_logo/pp.png";
 const cod = "/assets/company_logo/cod.png";
 
 // Education Section Logos
@@ -105,7 +105,7 @@ export const SkillsInfo = [
 export const experiences = [
   {
     id: 0,
-    img: sa,
+    img: pp,
     role: "FullStack Developer",
     company: "Samriddhi Associates",
     date: "June 2025 - July 2025",
