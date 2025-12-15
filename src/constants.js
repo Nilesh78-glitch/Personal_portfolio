@@ -42,7 +42,7 @@ const cod = "/assets/company_logo/cod.png";
 
 // Education Section Logos
 const BIT = "/assets/school_logo/BIT.png";
-const jvmLogo = "dist\assets\school_logo\jvmLogo.jpg";
+const jvmLogo = "\assets\school_logo\jvmLogo.jpg";
 const mgm = "/assets/school_logo/mgm.jpeg";
 
 // Project Section Logos
