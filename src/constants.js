@@ -1,5 +1,5 @@
 // Skills Section Logo's (NO IMPORTS — use absolute URLs)
-const htmlLogo = "/assets/tech_logo/htmlLogo.png";
+const htmlLogo = "/assets/tech_logo/html.png";
 const cssLogo = "/assets/tech_logo/css.png";
 const sassLogo = "/assets/tech_logo/sass.png";
 const javascriptLogo = "/assets/tech_logo/javascript.png";
@@ -42,7 +42,7 @@ const cod = "/assets/company_logo/cod.png";
 
 // Education Section Logos
 const BIT = "/assets/school_logo/BIT.png";
-const jvmLogo = "/assets/school_logo/jvmLogo.jpg";
+const jvmLogo = "dist\assets\school_logo\jvmLogo.jpg";
 const mgm = "/assets/school_logo/mgm.jpeg";
 
 // Project Section Logos
