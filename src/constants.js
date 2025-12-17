@@ -47,7 +47,7 @@ const DAV = "/assets/school_logo/DAV.jpeg";
 
 // Project Section Logos
 const deltaAi = "/assets/project_logos/deltaFrame.png";
-const prakriti = "/assets/project_logos/prakriti.png";
+const air = "assets/project_logos/air.png";
 const feedMeBack = "/assets/project_logos/feedMeBack.png";
 
 export const SkillsInfo = [
@@ -183,21 +183,20 @@ export const projects = [
   },
   {
     id: 1,
-    title: "प्रKriti",
+    title: "Airbase Mangement system",
     description:
-      "प्रKriti is a sustainability-driven platform using AI for waste segregation and green retail, built collaboratively for SMART INDIA HACKATHON 2024 Grand Finale.",
-    image: prakriti,
+      "Airbase Management System is a Java Swing-based desktop application that streamlines airline operations, including flight scheduling, booking management, and customer service, utilizing JDBC for database connectivity.",
+    image: air,
     tags: [
-      "React JS",
-      "Node.js",
-      "MongoDB",
-      "YOLO",
-      "Express",
-      "JavaScript",
+      "Java Swing",
+      "JDBC",
+      "JFrame & Components",
+      "OOP (Inheritance & Interfaces)",
+      "Desktop GUI Application",
     ],
-    github: "https://github.com/codingmastr/CSPrep",
+    github: "",
     webapp:
-      "https://683dbeba67cffe7312ab98e0--lambent-gingersnap-9d3d6e.netlify.app/",
+      "",
   },
   {
     id: 2,
